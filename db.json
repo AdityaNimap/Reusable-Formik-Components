@@ -31,28 +31,6 @@
       "id": 3
     },
     {
-      "sub": "108764215609428202872",
-      "name": "Aditya Titame",
-      "given_name": "Aditya",
-      "family_name": "Titame",
-      "picture": "https://lh3.googleusercontent.com/a/AGNmyxb9BmkFkNuFnl1hS63S7g-u2DCA1ityZmH2QpLz=s96-c",
-      "email": "adityatitame@nimapinfotech.com",
-      "email_verified": true,
-      "locale": "en",
-      "hd": "nimapinfotech.com",
-      "id": 4
-    },
-    {
-      "email": "test@nimapinfotech.com",
-      "password": "12345",
-      "confirmPassword": "12345",
-      "mobNo": "1234567890",
-      "terms": [
-        "accepted"
-      ],
-      "id": 5
-    },
-    {
       "email": "r@gmail.com",
       "password": "12345",
       "confirmPassword": "12345",
@@ -63,9 +41,9 @@
       "id": 6
     },
     {
-      "email": "b@gmail.com",
-      "password": "12345",
-      "confirmPassword": "12345",
+      "email": "a@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
       "mobNo": "1234567890",
       "terms": [
         "accepted"
